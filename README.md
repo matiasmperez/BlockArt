@@ -1,4 +1,4 @@
-# BLOCKART
+# BlockArt
 
 BlockArt es una pagina web que permite a los usuarios de la aplicación móvil registrarse, configurar su cuenta,cargar sus NFT, crear su galeria y hasta comprar en un futuro..
 
