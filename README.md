@@ -1,4 +1,8 @@
+#BlockArt
+#BlockArt es una pagina web que permite a los usuarios de la aplicación móvil registrarse, configurar su cuenta,cargar sus NFT, crear su galeria y hasta comprar en un futuro..
+
 # Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
